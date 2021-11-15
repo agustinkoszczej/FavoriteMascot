@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "FavoriteMascot": {
+      "commandName": "Project",
+      "commandLineArgs": "input.json"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
